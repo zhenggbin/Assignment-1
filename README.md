@@ -1,15 +1,16 @@
-# Your Project's Name
+# FED Assignment 1
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
-
-Essentially, this part is your sales pitch.
+# WCoMMs Website
+My project involves developing on a telecommunication website for my own fictional company, WCoMMs. The primary objective is to effectively communicate the company's services to the customers. The website aims to be able to attract as many users as possible by showcasing of our various services and plans offered and also win the confidence of our customers regarding of our quality and reliability of the service provided.
  
 ## Design Process
- 
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+The design process is to create a neat, organised and user-friendly website for the potential customers trying to seek enough information about the services provided and know better about the company. This website targets a very large group of audience, such as first-time users, individuals, family, friends and also even tourists as well. Our goal is to provide a very seamless experience for the users to better understand our services and encourage as many users as possible to sign up for our services.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+User Stories:
+1) As a first-time visitor, I want to be able to easily navigate in the website so that I can find about the information of the services provided without experiencing much difficultes.
+2) As a visitor with enquiries, I want to quickly find about the company's contact information so that I can reach out for help if needed.
+3) As a prospective customer, I want to be able to understand the key features of each services provided so that it can help me to make a more informed choice of choosing the plan which better suits my needs.
+
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
 These files should themselves either be included as a pdf file in the project itself (in an separate directory)
@@ -20,47 +21,35 @@ Include the Adobe XD wireframe as a folder. You can include the XD share url.
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+- Navigation Bar - allows the users to navigate through the website easily and seamlessly
+- 
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+- Nil, may add in more in the future if I would want to improve the website further upon learning more in-depth javascript.
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
+- [HTML]
+    - The project uses **HTML** to structure the content of the website.
+- [CSS]
+    - The project uses **CSS** to help in styling and layout of the website.
+- [Javascript]
+    - The project uses **JavaScript** to enhance the interactivity of the website.
+- [Font Awesome 4]
+    - The project uses **Font Awesome 4** to add icons into the website. 
 
 ## Testing
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+Testing Process:
 
 1. Contact form:
     1. Go to the "Contact Us" page
     2. Try to submit the empty form and verify that an error message about the required fields appears
     3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+    4. 4. Try to submit the form with an invalid phone number (in singapore context, mobile phone numbers usually starts with either '9' or '8) and verify that a releavnt error message appears.
+    5. Try to submit the form with all inputs valid and verify that a success message appears.
 
 ## Credits
 
-### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-
-### Media
-- The photos used in this site were obtained from ...
-
-### Acknowledgements
-
-- I received inspiration for this project from X
-
+- ALL of the photos, graphics and icons I used is from (https://www.freepik.com/).
