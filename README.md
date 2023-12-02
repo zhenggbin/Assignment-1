@@ -39,7 +39,7 @@ In addition, you may also use this section to discuss plans for additional featu
     - The project uses **JavaScript** to enhance the interactivity of the website.
 - [Google Fonts](https://fonts.google.com/icons)
     - The project uses **Google Fonts** to add icons into the website
-- [Font Awesome 4]
+- [Font Awesome 4](https://fontawesome.com/v4/icons/)
     - The project uses **Font Awesome 4** to add icons into the website. 
 
 ## Testing
