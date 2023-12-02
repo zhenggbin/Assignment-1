@@ -37,6 +37,8 @@ In addition, you may also use this section to discuss plans for additional featu
     - The project uses **CSS** to help in styling and layout of the website.
 - [Javascript]
     - The project uses **JavaScript** to enhance the interactivity of the website.
+- [Google Fonts](https://fonts.google.com/icons)
+    - The project uses **Google Fonts** to add icons into the website
 - [Font Awesome 4]
     - The project uses **Font Awesome 4** to add icons into the website. 
 
